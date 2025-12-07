@@ -17,8 +17,8 @@ Process
       - Trained from 10:90 to 90:10
       - Graph of model performance containing evaluation metrics of Accuracy, Precision, Recall (Sensitivity), FQ-Score, ROC-AUC
    
-- Performance Evaluation:
+Performance Evaluation:
 
-  - Top Three Ratios: 80:20, 70:30, 60:40 with Confusion Matrix, Sensitivity and Specificity
+- Top Three Ratios: 80:20, 70:30, 60:40 with Confusion Matrix, Sensitivity and Specificity
 
 - Best Model Selected: 80:20 Split
