@@ -9,7 +9,7 @@ Objective: To determine blood eligibility based on age, sex, and other biologica
 
 Process
 - Data Cleaning: Input median, Clipping (Outliers), Log transformation (Skewness)
-- Preprocessing: Standardization (Robust Scaling), encode categorical attributes (sec, category)
+- Preprocessing: Standardization (Robust Scaling), encode categorical attributes (sex, category)
 - Modelling Process:
   
   - Model Selected: Logistic Regression
