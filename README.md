@@ -25,11 +25,12 @@ A binary classification project that predicts whether a patient is eligible to d
 
 ## Repository Structure
 
-    Data/                          # hcvdata.csv
-    Preprocessing.py               # Data cleaning and transformation scripts
-    Modelling.py                   # Logistic Regression training and evaluation
-    Cleaned_Dataset.xlsx           # Output after cleaning
-    Preprocessed_Dataset.xlsx      # Output after encoding and scaling
+    hcvdata.csv                              # Raw dataset
+    assignment3Code.ipynb                    # Full preprocessing and modelling notebook
+    Cleaned_Dataset.xlsx                     # Output after cleaning
+    Preprocessed_Dataset.xlsx                # Output after encoding and scaling
+    STTHK2113_GROUP ASSIGNMENT 3.pdf         # Full written report
+    Data Analytics Presentation.pdf          # Presentation slides
 
 ---
 
